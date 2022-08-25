@@ -17,7 +17,7 @@ As a result the PSI Budgeting Spreadsheet was born. The PSI stands for _Plan, Se
 
 Download the sheet [here](https://docs.google.com/spreadsheets/d/1o4n4G2lbTavWpHNLC3z8dYNM7To1fQPN8T1XAV-t408/copy)
 
-Get started with full documentation [here](https://web-32.gitbook.io/psi-budgeting/)
+Get started with full documentation [here](https://web-32.gitbook.io/psi-budgeting/initial-setup)
 
 ### More About Planning
 
