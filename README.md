@@ -13,6 +13,12 @@ This spreadsheet was borne out of a desire for me to manage my personal finances
 
 As a result the PSI Budgeting Spreadsheet was born. The PSI stands for _Plan, See and Improve_. In a nutshell it revolves around planning your income and outgoings (much like the envelope or zero-based systems), then the tool will work out the budgets for you on your behalf. The seeing aspect is taking that plan and then adapting your spending and saving pattern to suit it. You'd record your spending in the tool and see exactly how close you are to your plan and where you are falling short or doing well. Finally you'd use the information and comparisons to improve either your planning if you're doing well and your goals are on track, or your spending if it shows you're out of whack.
 
+### Get Started
+
+Download the sheet here
+
+Get started with instructions [here](initial-setup/)&#x20;
+
 ### More About Planning
 
 In other budgeting methods here you'd have a think about your spending, average it up and give yourself a fixed budget on some kind of basis (such as monthly). Not here. Here you tell the tool exactly what your income and spending is going to be like, even if it is irregular. The sheet allows you to do that!&#x20;
